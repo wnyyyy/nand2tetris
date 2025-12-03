@@ -21,6 +21,10 @@ Source files include chip .hdl implementations and helper truth table.
 
 ### Project 2: Boolean Arithmetic
 
-The **Arithmetic Logic Unit** (ALU) was implemented this section, alongside the chips Add16, FullAdder, HalfAdder and Inc16.
+The **Arithmetic Logic Unit** (ALU) was implemented this section, alongside the chips:
+- Add16
+- FullAdder
+- HalfAdder
+- Inc16.
 
 Source files include chip .hdl implementations and helper truth table.
