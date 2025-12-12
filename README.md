@@ -28,3 +28,17 @@ The **Arithmetic Logic Unit** (ALU) chip was implemented this section, alongside
 - Inc16
 
 Source files include chip .hdl implementations and helper truth table.
+
+### Project 3: Memory
+
+In this project, time-dependent chips were built, using the flip-flop as primitive. Therefore, the bit chip is the lowest implemented level:
+- Bit
+- Register
+- RAM8
+- RAM64
+- RAM512
+- RAM4K
+- RAM16K
+- PC
+
+Source files include chip .hdl implementations.
